@@ -1,0 +1,13 @@
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\bin\Debug\netcoreapp3.1\SOLID_Ex.exe
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\bin\Debug\netcoreapp3.1\SOLID_Ex.deps.json
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\bin\Debug\netcoreapp3.1\SOLID_Ex.runtimeconfig.json
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\bin\Debug\netcoreapp3.1\SOLID_Ex.runtimeconfig.dev.json
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\bin\Debug\netcoreapp3.1\SOLID_Ex.dll
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\bin\Debug\netcoreapp3.1\SOLID_Ex.pdb
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\obj\Debug\netcoreapp3.1\SOLID_Ex.csprojAssemblyReference.cache
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\obj\Debug\netcoreapp3.1\SOLID_Ex.AssemblyInfoInputs.cache
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\obj\Debug\netcoreapp3.1\SOLID_Ex.AssemblyInfo.cs
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\obj\Debug\netcoreapp3.1\SOLID_Ex.csproj.CoreCompileInputs.cache
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\obj\Debug\netcoreapp3.1\SOLID_Ex.dll
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\obj\Debug\netcoreapp3.1\SOLID_Ex.pdb
+C:\Users\shawn.daniels\Desktop\Code\SOLID_Ex\obj\Debug\netcoreapp3.1\SOLID_Ex.genruntimeconfig.cache
